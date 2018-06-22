@@ -1,0 +1,14 @@
+D:\backup data\TODAY\Aljabar\Transformasi\Transformasi\bin\Debug\Transformasi.exe.config
+D:\backup data\TODAY\Aljabar\Transformasi\Transformasi\bin\Debug\Transformasi.exe
+D:\backup data\TODAY\Aljabar\Transformasi\Transformasi\bin\Debug\Transformasi.pdb
+D:\backup data\TODAY\Aljabar\Transformasi\Transformasi\obj\Debug\Transformasi.csprojResolveAssemblyReference.cache
+D:\backup data\TODAY\Aljabar\Transformasi\Transformasi\obj\Debug\Transformasi.Form1.resources
+D:\backup data\TODAY\Aljabar\Transformasi\Transformasi\obj\Debug\Transformasi.Properties.Resources.resources
+D:\backup data\TODAY\Aljabar\Transformasi\Transformasi\obj\Debug\Transformasi.csproj.GenerateResource.Cache
+D:\backup data\TODAY\Aljabar\Transformasi\Transformasi\obj\Debug\Transformasi.exe
+D:\backup data\TODAY\Aljabar\Transformasi\Transformasi\obj\Debug\Transformasi.pdb
+D:\backup data\TODAY\Aljabar\Transformasi\Transformasi\obj\Debug\Transformasi.Form2.resources
+D:\backup data\TODAY\Aljabar\Transformasi\Transformasi\obj\Debug\Transformasi.Form3.resources
+D:\backup data\TODAY\Aljabar\Transformasi\Transformasi\obj\Debug\Transformasi.Form4.resources
+D:\backup data\TODAY\Aljabar\Transformasi\Transformasi\obj\Debug\Transformasi.Form5.resources
+D:\backup data\TODAY\Aljabar\Transformasi\Transformasi\obj\Debug\Transformasi.Form6.resources

@@ -1,0 +1,53 @@
+D:\backup data\TODAY\Aljabar\Transformasi\Transformasi\bin\Release\Transformasi.exe.config
+D:\backup data\TODAY\Aljabar\Transformasi\Transformasi\bin\Release\Transformasi.exe.manifest
+D:\backup data\TODAY\Aljabar\Transformasi\Transformasi\bin\Release\Transformasi.application
+D:\backup data\TODAY\Aljabar\Transformasi\Transformasi\bin\Release\Transformasi.exe
+D:\backup data\TODAY\Aljabar\Transformasi\Transformasi\bin\Release\Transformasi.pdb
+D:\backup data\TODAY\Aljabar\Transformasi\Transformasi\obj\Release\Transformasi.Form4.resources
+D:\backup data\TODAY\Aljabar\Transformasi\Transformasi\obj\Release\Transformasi.Form3.resources
+D:\backup data\TODAY\Aljabar\Transformasi\Transformasi\obj\Release\Transformasi.Form2.resources
+D:\backup data\TODAY\Aljabar\Transformasi\Transformasi\obj\Release\Transformasi.Form1.resources
+D:\backup data\TODAY\Aljabar\Transformasi\Transformasi\obj\Release\Transformasi.Form5.resources
+D:\backup data\TODAY\Aljabar\Transformasi\Transformasi\obj\Release\Transformasi.Form6.resources
+D:\backup data\TODAY\Aljabar\Transformasi\Transformasi\obj\Release\Transformasi.Properties.Resources.resources
+D:\backup data\TODAY\Aljabar\Transformasi\Transformasi\obj\Release\Transformasi.csproj.GenerateResource.Cache
+D:\backup data\TODAY\Aljabar\Transformasi\Transformasi\obj\Release\Transformasi.exe.manifest
+D:\backup data\TODAY\Aljabar\Transformasi\Transformasi\obj\Release\Transformasi.application
+D:\backup data\TODAY\Aljabar\Transformasi\Transformasi\obj\Release\Transformasi.exe
+D:\backup data\TODAY\Aljabar\Transformasi\Transformasi\obj\Release\Transformasi.pdb
+D:\Transformasi\Transformasi\bin\Release\Transformasi.exe.config
+D:\Transformasi\Transformasi\bin\Release\Transformasi.exe.manifest
+D:\Transformasi\Transformasi\bin\Release\Transformasi.application
+D:\Transformasi\Transformasi\bin\Release\Transformasi.exe
+D:\Transformasi\Transformasi\bin\Release\Transformasi.pdb
+D:\Transformasi\Transformasi\obj\Release\Transformasi.csprojResolveAssemblyReference.cache
+D:\Transformasi\Transformasi\obj\Release\Transformasi.Form4.resources
+D:\Transformasi\Transformasi\obj\Release\Transformasi.Form3.resources
+D:\Transformasi\Transformasi\obj\Release\Transformasi.Form2.resources
+D:\Transformasi\Transformasi\obj\Release\Transformasi.Form1.resources
+D:\Transformasi\Transformasi\obj\Release\Transformasi.Form5.resources
+D:\Transformasi\Transformasi\obj\Release\Transformasi.Form6.resources
+D:\Transformasi\Transformasi\obj\Release\Transformasi.Properties.Resources.resources
+D:\Transformasi\Transformasi\obj\Release\Transformasi.csproj.GenerateResource.Cache
+D:\Transformasi\Transformasi\obj\Release\Transformasi.exe.manifest
+D:\Transformasi\Transformasi\obj\Release\Transformasi.application
+D:\Transformasi\Transformasi\obj\Release\Transformasi.exe
+D:\Transformasi\Transformasi\obj\Release\Transformasi.pdb
+D:\Transformasi [Aljabar Geometri]\Source code\Transformasi\Transformasi\bin\Release\Transformasi.exe.config
+D:\Transformasi [Aljabar Geometri]\Source code\Transformasi\Transformasi\bin\Release\Transformasi.exe.manifest
+D:\Transformasi [Aljabar Geometri]\Source code\Transformasi\Transformasi\bin\Release\Transformasi.application
+D:\Transformasi [Aljabar Geometri]\Source code\Transformasi\Transformasi\bin\Release\Transformasi.exe
+D:\Transformasi [Aljabar Geometri]\Source code\Transformasi\Transformasi\bin\Release\Transformasi.pdb
+D:\Transformasi [Aljabar Geometri]\Source code\Transformasi\Transformasi\obj\Release\Transformasi.csprojResolveAssemblyReference.cache
+D:\Transformasi [Aljabar Geometri]\Source code\Transformasi\Transformasi\obj\Release\Transformasi.Form4.resources
+D:\Transformasi [Aljabar Geometri]\Source code\Transformasi\Transformasi\obj\Release\Transformasi.Form3.resources
+D:\Transformasi [Aljabar Geometri]\Source code\Transformasi\Transformasi\obj\Release\Transformasi.Form2.resources
+D:\Transformasi [Aljabar Geometri]\Source code\Transformasi\Transformasi\obj\Release\Transformasi.Form1.resources
+D:\Transformasi [Aljabar Geometri]\Source code\Transformasi\Transformasi\obj\Release\Transformasi.Form5.resources
+D:\Transformasi [Aljabar Geometri]\Source code\Transformasi\Transformasi\obj\Release\Transformasi.Form6.resources
+D:\Transformasi [Aljabar Geometri]\Source code\Transformasi\Transformasi\obj\Release\Transformasi.Properties.Resources.resources
+D:\Transformasi [Aljabar Geometri]\Source code\Transformasi\Transformasi\obj\Release\Transformasi.csproj.GenerateResource.Cache
+D:\Transformasi [Aljabar Geometri]\Source code\Transformasi\Transformasi\obj\Release\Transformasi.exe.manifest
+D:\Transformasi [Aljabar Geometri]\Source code\Transformasi\Transformasi\obj\Release\Transformasi.application
+D:\Transformasi [Aljabar Geometri]\Source code\Transformasi\Transformasi\obj\Release\Transformasi.exe
+D:\Transformasi [Aljabar Geometri]\Source code\Transformasi\Transformasi\obj\Release\Transformasi.pdb
