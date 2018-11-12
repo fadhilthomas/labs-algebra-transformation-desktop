@@ -1,1 +1,2 @@
-# desktop-algebra_transformation
+# Desktop_AlgebraTransformation
+Algebra Transformations App
